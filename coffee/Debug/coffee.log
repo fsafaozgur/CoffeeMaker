@@ -1,0 +1,9 @@
+﻿  Client.cpp
+C:\Users\Almıla Nur Yavru\source\repos\coffee\coffee\Client.cpp(73,11): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+  coffee.cpp
+C:\Users\Almıla Nur Yavru\source\repos\coffee\coffee\coffee.cpp(46,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Server.cpp
+C:\Users\Almıla Nur Yavru\source\repos\coffee\coffee\Server.cpp(19,24): warning C4154: bir dizi ifadesinin silinmesi; işaretçiye dönüştürme sağlandı
+C:\Users\Almıla Nur Yavru\source\repos\coffee\coffee\Server.cpp(20,18): warning C4154: bir dizi ifadesinin silinmesi; işaretçiye dönüştürme sağlandı
+  Kod Üretiliyor...
+  coffee.vcxproj -> C:\Users\Almıla Nur Yavru\source\repos\coffee\Debug\coffee.exe
